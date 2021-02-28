@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [514735283313442819],
+        "ACTIVITY_TEXT": "Laune",
+        "GUILD_ID": "808460870308200479",
+        "VOICE_CHANNEL": "808460870451331134",
+        "MIN_STAFF_ROLE": "808460870317375510"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome.mp3",
+        "STAFF": ""
+    },
+    "TOKEN": "ODExNzAwNDY3NzUwNDA0MTQ3.YC2A-A.eXiWg0C7cTY0HqpIu6TJ5c5P1YM"
+}
